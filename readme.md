@@ -1,3 +1,4 @@
- What is Web Development? 
- 
- Web application Demo using Django Framework.
+# Workshop: Web application demo using Django Framework.
+
+- At: Mohammed VI Polytechnic University Amphi D
+- By: Achraf Faris
